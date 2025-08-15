@@ -51,7 +51,7 @@ For the underlying theory, see:
 You need Python ≥ 3.9 and `pip`.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/grt-approximate-inversion.git
+git clone https://github.com/rauv-git/grt-approximate-inversion.git
 cd grt-approximate-inversion
 pip install -r requirements.txt
 ```
