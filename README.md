@@ -53,7 +53,6 @@ You need Python ≥ 3.9 and `pip`.
 ```bash
 git clone https://github.com/rauv-git/grt-approximate-inversion.git
 cd grt-approximate-inversion
-pip install -r requirements.txt
 ```
 
 For the fast marching method solver:
@@ -72,7 +71,7 @@ You might want to use a virtual environment.
 
 ## Usage
 
-Examples for the use are described in the Jupyter notebooks "general_example.ipynb" and "translation_invariant_example.ipynb". Whilst the former shows an example for a bilinear background velocity, the latter can be used to approximately invert the GRT for layered background velocities. We note that much longer runtimes are required in the general setting when compared to the layered setting.
+Examples for the use are described in the Jupyter notebooks "general_example.ipynb" and "translation_invariant_example.ipynb". Whilst the former shows an example for a bilinear background velocity, the latter can be used to approximately invert the GRT for layered background velocities. Note that much longer runtimes are required in the general setting when compared to the layered setting.
 
 ---
 
