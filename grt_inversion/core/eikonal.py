@@ -1,9 +1,5 @@
 """
-Fast Marching Method implementation for solving the eikonal equation.
-
-Contains complete implementation of the Fast Marching Method including the Marcher class and supporting data structures.
-
-Main solver eikonalfm with source code added here in case it is not available.
+Fast Marching Method implementation for solving the eikonal equation using eikonalfm.
 """
 
 import numpy as np
